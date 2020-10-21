@@ -1,0 +1,54 @@
+intro about contact
+
+hi, i'm
+tiger hurd
+
+  _Software Engineering Student at Thinkful
+  _Based in Charlotte, North Carolina
+  
+  01_CSS
+  02_HTML
+  03_Javascript
+
+why i love web development:
+
+  _the details
+  _collaboration
+  _getting my hands dirty with code
+  _drinking bengal spice tea
+
+alongside my love for web development
+
+  _creating watercolor illustration
+  _writing songs
+  _playing guitar
+  _learning 
+
+links 
+  
+  01_LinkedIn
+  02_Github
+
+any questions?
+find me here tigerlilly@palettetiger.com
+designed & developed by tiger hurd 2020
+
+--------------------------------------------------------
+
+An Intro section that contains the following information:
+
+    Who you are
+    Where you are located
+
+An About Me section that contains the following information:
+
+    A description that shows your passion for web development and your willingness to work with others
+    One or two sentences that describe other interests you have outside of web development
+
+A Contact section that contains the following information:
+
+    A link to your LinkedIn profile
+    A link to your GitHub profile
+    A link to your email (optional)
+
+

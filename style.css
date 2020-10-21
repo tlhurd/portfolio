@@ -1,0 +1,92 @@
+/* default styles for content */
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 15px;
+    background-color:  #171817ff;
+    color:  #FFFFFFff;
+    text-align: center;
+  }
+  /* removes margin and padding */
+  body ul {
+    margin: 0;
+    padding: 0;
+  }
+/* change headers to Inknut Antiqua */
+h1, h2 {
+    font-family: 'Inknut Antiqua', serif;
+}
+/* keeps the navigation in a fixed position */
+
+/* displays the list elements in line with typographic formatting */
+nav ul li {
+    display: inline-block;
+    margin: 0 15px; /* 0 refers to top and bottom
+    15px refers to left and right */
+    padding: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+  }
+/* removes default style and changes text color */
+  nav li a {
+      text-decoration: none;
+      color: #FFFFFFff
+  }
+/* when hovering over navigation an underline will 
+appear and the text color will change */
+  nav li a:hover {
+      text-decoration: underline;
+      color: #E76083ff;
+  }
+/* centers the navigation elements */
+  nav ul {
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+  }
+
+  h1 {
+    line-height: 130%;
+    font-size: 50px;
+  }
+
+  header ul {
+      padding: 25px;
+  }
+
+  header {
+    padding-bottom: 25px;
+  }
+
+  img{
+      height:300px
+  }
+
+  section ul li {
+      text-align: left;
+      list-style-type: none;
+  }
+
+  footer h3 {
+      font-size: 12px;
+      margin-bottom: 50px;
+  }
+
+  footer a {
+      text-decoration: none;
+      color: #FFFFFFff
+  }
+
+  footer a:hover {
+    text-decoration: underline;
+    color: #E76083ff;
+  }
+
+  .padding {
+    margin: 50px;
+  }
+ /* center text */
+  .text-container {
+    margin: auto;
+    width: 50%;
+  }
