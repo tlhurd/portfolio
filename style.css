@@ -94,3 +94,7 @@ appear and the text color will change */
     margin: auto;
     width: 50%;
   }
+
+  .lg-text {
+    font-size: 20px;
+  }
